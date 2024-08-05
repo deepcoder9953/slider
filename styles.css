@@ -1,0 +1,25 @@
+#box{
+    position: relative;
+}
+
+.slides>img{
+width: 100%;
+}
+
+#pre, #post{
+    position: absolute;
+    opacity: 0.5;
+    bottom: 180px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+
+#post{
+    left: 1235px;    
+}
+
+#pre:hover, #post:hover{
+    opacity: 1;
+}
