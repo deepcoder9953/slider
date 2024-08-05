@@ -1,5 +1,4 @@
  let index = 0;
- let lol = 156;
 slideFun(index)
 
 
